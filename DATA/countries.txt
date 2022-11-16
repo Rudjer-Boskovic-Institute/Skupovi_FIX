@@ -1,0 +1,195 @@
+COUNTRY
+Afganistan, Afghanistan
+Albanija, Albania
+Alžir, Algeria
+Andora, Andorra
+Angola, Angola
+Antigva i Barbuda, Antigua and Barbuda
+Argentina, Argentina
+Armenija, Armenia
+Australija, Australia
+Austrija, Austria
+Azerbajdžan, Azerbaijan
+Bahami, Bahamas
+Bahrein, Bahrain
+Bangladeš, Bangladesh
+Barbados, Barbados
+Bjelorusija, Belarus
+Belgija, Belgium
+Belize, Belize
+Benin, Benin
+Butan, Bhutan
+Bolivija, Bolivia
+Bosna i Hercegovina, Bosnia and Herzegovina, BiH
+Bocvana, Botswana
+Brazil, Brazil
+Brunej, Brunei
+Bugarska, Bulgaria
+Burkina Faso, Burkina Faso
+Burundi, Burundi
+Kambodža, Cambodia
+Kamerun, Cameroon
+Kanada, Canada
+Kabo Verde, Cape Verde
+Srednjoafrička Republika, Central African Republic
+Čad, Chad
+Čile, Chile
+Kina, China
+Kolumbija, Colombia
+Komori, Comoros
+Kostarika, Costa Rica
+Obala Slonovače, Côte d’Ivoire/Ivory Coast
+Hrvatska, Croatia, Republika Hrvatska
+Kuba, Cuba
+Cipar, Cyprus
+Češka Republika, Czechia/Czech Republic, Češka, Czechia, Czech Republic, Republika Češka
+Demokratska Republika Kongo, Democratic Republic of the Congo, Kongo
+Danska, Denmark
+Džibuti, Djibouti
+Dominika, Dominica
+Dominikanska Republika, Dominican Republic
+Ekvador, Ecuador
+Egipat, Egypt
+El Salvador, El Salvador
+Ekvatorska Gvineja, Equatorial Guinea
+Eritreja, Eritrea
+Estonija, Estonia
+Esvatini / Svazi, Eswatini, Swaziland
+Etiopija, Ethiopia
+Fidži, Fiji
+Finska, Finland
+Francuska, France
+Gabon, Gabon
+Gambija, Gambia
+Gruzija, Georgia
+Njemačka, Germany, Deutschland
+Gana, Ghana
+Grčka, Greece
+Grenada, Grenada
+Gvatemala, Guatemala
+Gvineja, Guinea
+Gvineja Bisau, Guinea-Bissau
+Gvajana, Guyana
+Haiti, Haiti
+Honduras, Honduras
+Mađarska, Hungary
+Island, Iceland
+Indija, India
+Indonezija, Indonesia
+Iran, Iran
+Irak, Iraq
+Irska, Ireland
+Izrael, Israel
+Italija, Italy
+Jamajka, Jamaica
+Japan, Japan
+Jordan, Jordan
+Kazahstan, Kazakhstan
+Kenija, Kenya
+Kiribati, Kiribati
+Kuvajt, Kuwait
+Kirgistan, Kyrgyzstan
+Laos, Laos
+Latvija, Latvia
+Libanon, Lebanon
+Lesoto, Lesotho
+Liberija, Liberia
+Libija, Libya
+Lihtenštajn, Liechtenstein
+Litva, Lithuania
+Luksemburg, Luxembourg
+Madagaskar, Madagascar
+Malavi, Malawi
+Malezija, Malaysia
+Maldivi, Maldives
+Mali, Mali
+Malta, Malta
+Maršalovi Otoci, Marshall Islands
+Mauritanija, Mauritania
+Mauricijus, Mauritius
+Meksiko, Mexico
+Mikronezija, Micronesia
+Moldavija, Moldova
+Monako, Monaco
+Mongolija, Mongolia
+Crna Gora, Montenegro
+Maroko, Morocco
+Mozambik, Mozambique
+Mjanmar, Myanmar, Burma
+Namibija, Namibia
+Nauru, Nauru
+Nepal, Nepal
+Nizozemska, Netherlands
+Novi Zeland, New Zealand
+Nikaragva, Nicaragua
+Niger, Niger
+Nigerija, Nigeria
+Sjeverna Koreja, North Korea
+Sjeverna Makedonija, North Macedonia, Makedonija
+Norveška, Norway
+Oman, Oman
+Pakistan, Pakistan
+Palau, Palau
+Palestina, Palestine
+Panama, Panama
+Papua Nova Gvineja, Papua New Guinea
+Paragvaj, Paraguay
+Peru, Peru
+Filipini, Philippines
+Poljska, Poland
+Portugal, Portugal
+Katar, Qatar
+Republika Kongo, Republic of the Congo, Kongo
+Rumunjska, Romania
+Rusija, Russia
+Ruanda, Rwanda
+Sveti Kristofor i Nevis, Saint Kitts and Nevis
+Sveta Lucija, Saint Lucia
+Sveti Vincent i Grenadini, Saint Vincent and the Grenadines
+Samoa, Samoa
+San Marino, San Marino
+Sveti Toma i Princip, São Tomé and Príncipe
+Saudijska Arabija, Saudi Arabia
+Senegal, Senegal
+Srbija, Serbia
+Sejšeli, Seychelles
+Sijera Leone, Sierra Leone
+Singapur, Singapore
+Slovačka, Slovakia
+Slovenija, Slovenia
+Solomonski Otoci, Solomon Islands
+Somalija, Somalia
+Južna Afrika, South Africa
+Južna Koreja, South Korea, Korea, Koreja
+Južni Sudan, South Sudan
+Španjolska, Spain
+Šri Lanka, Sri Lanka
+Sudan, Sudan
+Surinam, Suriname
+Švedska, Sweden
+Švicarska, Switzerland
+Sirija, Syria
+Tadžikistan, Tajikistan
+Tanzanija, Tanzania
+Tajland, Thailand
+Istočni Timor, Timor-Leste/East Timor
+Togo, Togo
+Tonga, Tonga
+Trinidad i Tobago, Trinidad and Tobago
+Tunis, Tunisia
+Turska, Turkey
+Turkmenistan, Turkmenistan
+Tuvalu, Tuvalu
+Uganda, Uganda
+Ukrajina, Ukraine
+Ujedinjeni Arapski Emirati, United Arab Emirates
+Ujedinjeno Kraljevstvo, United Kingdom, Velika Britanija, Engleska
+Sjedinjene Američke Države, United States of America, USA, SAD
+Urugvaj, Uruguay
+Uzbekistan, Uzbekistan
+Vanuatu, Vanuatu
+Venezuela, Venezuela
+Vijetnam, Vietnam
+Jemen, Yemen
+Zambija, Zambia
+Zimbabve, Zimbabwe
