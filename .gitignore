@@ -1,3 +1,9 @@
+# DATA
+DATA/*
+
+# debug
+debug.log
+
 # virtualenv
 myenv
 
